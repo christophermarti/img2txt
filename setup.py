@@ -7,7 +7,7 @@ setup(
     author_email="hit9@icloud.com",
     description="Image to Ascii Text, can output to html or ansi terminal.",
     license="BSD",
-    url="https://github.com/hit9/img2txt",
+    url="https://github.com/christophermarti/img2txt",
     install_requires=['docopt', 'Pillow'],
     scripts=['img2txt.py'],
     py_modules=['ansi', 'graphics_util'],
